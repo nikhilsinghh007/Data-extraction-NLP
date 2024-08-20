@@ -28,4 +28,4 @@ Look for these variables in the analysis:
 12. PERSONAL PRONOUNS
 13. AVG WORD LENGTH
 
-14. check out: 'final_output.csv' for final output.
+check out: 'final_output.csv' for final output.
