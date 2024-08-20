@@ -1,0 +1,7 @@
+Streamlined Integration: Interactive Brokers API with Python for Desktop Trading Application
+
+Client: A leading fintech firm in the USA
+Industry Type: Finance
+Products & Services: Trading, Banking, Financing
+Organization Size: 100+
+This project was done by the Blackcoffer Team, a Global IT Consulting firm.
